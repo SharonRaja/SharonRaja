@@ -1,7 +1,7 @@
 <img src="./asserts/green-cover.png">
-<a href="https://www.linkedin.com/in/sharon-raja-b07487147">
+<p align="center"><a href="https://www.linkedin.com/in/sharon-raja-b07487147">
 <img align="center" src="asserts/linkedin-logo.png" width="50px" alt="Linkedin account">
-</a>
+</a></p>
 <!--
 **SharonRaja/SharonRaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
