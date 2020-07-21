@@ -1,7 +1,7 @@
-<img src="asserts/green-cover.jpg">
+<img src="./asserts/green-cover.png">
 <center>
 <a href="https://www.linkedin.com/in/sharon-raja-b07487147">
-<img src="asserts/linkedin-logo.jpg" width="50px" alt="Linkedin account">
+<img src="asserts/linkedin-logo.png" width="50px" alt="Linkedin account">
 </a>
 </center>
 <!--
