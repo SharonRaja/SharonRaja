@@ -1,4 +1,4 @@
-<img src="asserts/green-cover.png">
+<img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/green-cover.png">
 <p align="center"><a href="https://www.linkedin.com/in/sharon-raja-b07487147" target="_blank">
 <img src="asserts/linkedin.png" width="50px" alt="Linkedin account">
 </a></p>
