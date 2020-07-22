@@ -6,7 +6,7 @@
 
 <h3>Languages:</h3>
 <ul>
-<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/javascript.svg" width="50px" alt="JavaScript logo"/></li>
+<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/csharp.svg" width="50px" alt="Csharp logo"/></li>
 <li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/csharp.svg" width="50px" alt="Csharp logo"/></li>
 <li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/python.svg" width="50px" alt="Python logo"/></li>
 <li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/java.svg" width="50px" alt="Java logo"/></li>
