@@ -4,6 +4,17 @@
 </a></p>
 <p>		Nice to meet you!, I am a software developer, I can develop MERN stack applications and .Net applications. In .Net I will develop desktop application and UWP (Universal Windows Platform) application. I recommend you to go through my react.js and .Net projects.</p>
 
+<h3>Languages:</h3>
+<ul>
+<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/javascript.svg" width="50px" alt="JavaScript logo"/></li>
+<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/csharp.svg" width="50px" alt="Csharp logo"/></li>
+<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/python.svg" width="50px" alt="Python logo"/></li>
+<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/java.svg" width="50px" alt="Java logo"/></li>
+<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/html.svg" width="50px" alt="HTML logo"/></li>
+<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/css.svg" width="50px" alt="CSS logo"/></li>
+
+</ul>
+
 <!--
 **SharonRaja/SharonRaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
