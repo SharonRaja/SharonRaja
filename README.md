@@ -2,6 +2,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/sharon-raja-b07487147" target="_blank">
 <img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/linkedin.png" width="50px" alt="Linkedin account">
 </a></p>
+<p>		Nice to meet you!, I am a software developer, I can develop MERN stack applications and .Net applications. In .Net I will develop desktop application and UWP (Universal Windows Platform) application. I recommend you to go through my react.js and .net projects.</p>
 
 <!--
 **SharonRaja/SharonRaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
