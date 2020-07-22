@@ -6,12 +6,12 @@
 
 <h3>Languages:</h3>
 <ul>
-<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/csharp.svg" width="50px" alt="Csharp logo"/></li>
-<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/csharp.svg" width="50px" alt="Csharp logo"/></li>
-<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/python.svg" width="50px" alt="Python logo"/></li>
-<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/java.svg" width="50px" alt="Java logo"/></li>
-<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/html.svg" width="50px" alt="HTML logo"/></li>
-<li><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/css.svg" width="50px" alt="CSS logo"/></li>
+<sub><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/javascript.svg" width="20px" alt="JavaScript logo"/></sub> JavaScript<br>
+<sub><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/csharp.svg" width="20px" alt="Csharp logo"/></sub> Charp<br>
+<sub><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/python.svg" width="20px" alt="Python logo"/></sub> Python<br>
+<sub><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/java.svg" width="20px" alt="Java logo"/></sub> Java<br>
+<sub><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/html.svg" width="20px" alt="HTML logo"/></sub> HTML<br>
+<sub><img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/css.svg" width="20px" alt="CSS logo"/></sub> CSS<br>
 
 </ul>
 
