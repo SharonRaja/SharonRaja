@@ -1,6 +1,6 @@
 ![Cover picture](asserts/green-cover.png "Cover picture")
 <p align="center"><a href="https://www.linkedin.com/in/sharon-raja-b07487147" target="_blank">
-<img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/linkedn.png" width="50px" alt="Linkedin account">
+<img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/linkedin.png" width="50px" alt="Linkedin account">
 </a></p>
 
 <!--
