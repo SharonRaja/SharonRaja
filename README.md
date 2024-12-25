@@ -2,7 +2,7 @@
 <p align="center"><a href="https://www.linkedin.com/in/sharon-raja-b07487147" target="_blank">
 <img src="https://raw.githubusercontent.com/SharonRaja/SharonRaja/master/asserts/linkedin.png" width="50px" alt="Linkedin account">
 </a></p>
-<p>I am a dedicated professional with a strong interest in data science, artificial intelligence, and Python development. With hands-on experience in Scikit-learn, PyTorch, Tensorflow and Django. I am passionate about leveraging my skills in a dynamic and fast-paced environment to drive innovation and deliver impactful solutions for the company</p>
+<p>I am a dedicated professional interested in data science, artificial intelligence, and Python development. With hands-on experience in Scikit-learn, PyTorch, Tensorflow, and Django. I am passionate about leveraging my skills in a dynamic and fast-paced environment to drive innovation and deliver impactful solutions for the company.</p>
 
 <h3>Skills:</h3>
 <ul>
